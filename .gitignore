@@ -1,0 +1,5 @@
+www/scream/__pycache__/
+www/scream/*.db
+www/scream/content/__pycache__/
+www/scream/config.ini
+models
