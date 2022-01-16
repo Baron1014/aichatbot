@@ -1,0 +1,126 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/QnWXkcG/painting-back.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "畫框背面的謎題",
+        "weight": "bold",
+        "size": "xl",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Across",
+            "size": "lg",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start",
+            "style": "normal"
+          },
+          {
+            "type": "text",
+            "text": "1. The best university at Tainan.",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "3. Worst coding language I've ever seen.",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "6. Has a trunk",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "7. Language model can do NLP tasks.",
+            "size": "sm",
+            "color": "#666666",
+            "margin": "md",
+            "flex": 0,
+            "align": "start",
+            "weight": "bold",
+            "style": "normal"
+          },
+          {
+            "type": "text",
+            "size": "sm",
+            "color": "#666666",
+            "margin": "md",
+            "flex": 0,
+            "align": "start",
+            "weight": "bold",
+            "text": "　This is the password to the treasure!"
+          },
+          {
+            "type": "text",
+            "text": "Down",
+            "size": "lg",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "2. Likes to chase mice",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start",
+            "style": "normal"
+          },
+          {
+            "type": "text",
+            "text": "4. Fruit, usually red and round.",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          },
+          {
+            "type": "text",
+            "text": "5. Flying mammal",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "align": "start"
+          }
+        ],
+        "margin": "md"
+      }
+    ]
+  }
+}

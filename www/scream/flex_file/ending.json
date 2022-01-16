@@ -1,0 +1,85 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/6HTYqyk/640.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "4:3"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "lg",
+        "text": "尖叫小雞這樣料理，"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "lg",
+        "text": "肉香四溢，誰頂得住啊！"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "肉質細嫩卻略有嚼頭，甜汁入味",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "越吃越有味，越吃越想吃",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "就連骨頭里都香飄四溢",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "甜雞入口回味無窮 ,香味撲鼻",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "雞肉不但適於熱炒、燉湯",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "color": "#888888",
+        "text": "而且是比較適合冷食涼拌的肉類",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "【恭喜施主，你成功破關了】",
+        "color": "#888888",
+        "offsetTop": "sm"
+      }
+    ]
+  }
+}

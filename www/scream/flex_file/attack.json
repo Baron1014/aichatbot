@@ -1,0 +1,23 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/kSYV6z2/7.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "3:2"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "lg",
+        "text": "你與野豬展開了激烈的廝殺！"
+      }
+    ]
+  }
+}

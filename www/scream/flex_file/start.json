@@ -1,0 +1,87 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/VpYWTP4/8.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "lg",
+        "text": "這是發生在地球上的真實故事"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "你是一位無能的廢材研究生",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "幻想自己未來能夠闖出一片天",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "但是你的英檢考試一直考不好",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "屢戰屢敗、最後賠光家中積蓄",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "無處可去的你來到這個廢棄小屋",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "color": "#888888",
+        "offsetTop": "xs",
+        "text": "想在這裡暫時休憩一會兒"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "沒想到身後的大門竟然自動上鎖了...",
+        "color": "#888888",
+        "offsetTop": "xs"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "無計可施的你該怎麼逃出生天呢?",
+        "color": "#888888",
+        "offsetTop": "xs"
+      }
+    ]
+  }
+}

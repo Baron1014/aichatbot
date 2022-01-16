@@ -1,0 +1,47 @@
+{
+  "type": "bubble",
+  "size": "mega",
+  "hero": {
+    "type": "image",
+    "url": "https://i.ibb.co/0r5yTd9/treasure04.jpg",
+    "size": "full",
+    "aspectMode": "cover",
+    "aspectRatio": "1:1"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "lg",
+        "text": "你成功打開了BERT寶箱！"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "打開寶箱時珠光寶氣、光芒萬丈",
+        "color": "#888888",
+        "offsetTop": "md"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "color": "#888888",
+        "text": "你跪倒在菩薩面前，發誓要做個好人",
+        "offsetTop": "md"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "md",
+        "text": "【恭喜施主技能威力大幅提升！】",
+        "color": "#888888",
+        "offsetTop": "md"
+      }
+    ]
+  }
+}
