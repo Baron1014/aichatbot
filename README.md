@@ -6,12 +6,19 @@
 
 ## content
 - [Demo](#demo)
+- [Database Overview](#database-overview)
 - [Edit Environment Variables](#edit-environment-variables)
 - [Docker Setup](#docker-setup)
 - [Build Your Line Bot](#build-your-line-bot)
 
 ## Demo
+- snapshot of TRPG
+![](./static/TRPG.png)
 - [demo video](https://drive.google.com/file/d/1j5xv3xaRLSj1DdBsNkOmUgIYAr-NUbXv/view?usp=share_link)
+
+## Database Overview
+<img src="./static/database.png" width="1000" />
+
 ## Edit Environment Variables
 Modify the information of yourself in the red box.
 ```shell
