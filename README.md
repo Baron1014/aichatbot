@@ -11,7 +11,7 @@
 - [Build Your Line Bot](#build-your-line-bot)
 
 ## Demo
-- [demo video](https://drive.google.com/drive/u/1/folders/1b9AAJnfNyh6LG8hESkRmUhIcMYpdhXxT)
+- [demo video](https://drive.google.com/file/d/1j5xv3xaRLSj1DdBsNkOmUgIYAr-NUbXv/view?usp=share_link)
 ## Edit Environment Variables
 Modify the information of yourself in the red box.
 ```shell
