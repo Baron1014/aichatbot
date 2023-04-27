@@ -12,13 +12,12 @@
 - [Build Your Line Bot](#build-your-line-bot)
 
 ## Demo
-- snapshot of TRPG
+- snapshot of TRPG ([demo video](https://drive.google.com/file/d/1j5xv3xaRLSj1DdBsNkOmUgIYAr-NUbXv/view?usp=share_link))
 <div align="center">
 
-<img src="./static/TRPG.png" height="25%" width="25%" >
+<img src="./static/TRPG.png" width="50%" >
 
 </div>
-- [demo video](https://drive.google.com/file/d/1j5xv3xaRLSj1DdBsNkOmUgIYAr-NUbXv/view?usp=share_link)
 
 ## Database Overview
 <img src="./static/database.png" width="1000" />
