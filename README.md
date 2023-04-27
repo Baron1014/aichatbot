@@ -3,6 +3,8 @@
 <img src="./static/scream.jpg" height="250" width="300" >
 
 </div>
+## Abstract
+The primary objective of our project is to develop a Line-based tabletop role-playing game (TRPG) that can offer a highly personalized and interactive gaming experience. To achieve this, we propose to integrate a relational database, which can store and access the player's interaction history, and utilize BERT text models to accurately understand the player's intended actions. As a key feature, the game's storyline will be dynamically adjusted according to the player's decisions and actions, thus enhancing the immersive quality of the game world. Our goal is to create a new mode of communication software application that can not only entertain but also offer a richer interactive experience.
 
 ## content
 - [Demo](#demo)
